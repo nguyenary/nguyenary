@@ -10,7 +10,6 @@
 </a>
 
 <br />
-<br />
 
 I'm a passionate self-taught web developer from Ha Noi 💻
 
@@ -19,7 +18,6 @@ I'm a passionate self-taught web developer from Ha Noi 💻
 - 🔗 My linkedin [here](https://www.linkedin.com/in/nguyenary/)
 - 💬 Ask me about anything [here](https://github.com/nguyenary/nguyenary/issues)
 
-<br />
 <br />
 
 <a href="https://github.com/nguyenary/nguyenary">
