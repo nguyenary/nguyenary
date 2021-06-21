@@ -21,9 +21,9 @@ I'm a passionate self-taught web developer from Ha Noi 💻
 <br />
 
 <a href="https://github.com/nguyenary/nguyenary">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nguyenary&show_icons=true&include_all_commits=true&theme=dracula" alt="nguyenary's github" />
+  <img align="center" width="55%" src="https://github-readme-stats.vercel.app/api?username=nguyenary&show_icons=true&include_all_commits=true&theme=dracula" alt="nguyenary's github" />
 </a>
-&nbsp;
+&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenary&layout=compact&theme=dracula" />
 </a>
