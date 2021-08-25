@@ -20,7 +20,6 @@
 
 I'm a passionate self-taught web developer from Ha Noi 💻
 
-- 🔐 I’m currently working on [Divine Corp Jsc](https://divine.vn/)
 - 🎫 I am self-learning new knowledge and technology
 - 🔗 My linkedin [here](https://www.linkedin.com/in/nguyenary/)
 - 💬 Ask me about anything [here](https://github.com/nguyenary/nguyenary/issues)
