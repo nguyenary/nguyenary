@@ -1,44 +1,27 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Nguyen Ary</h1>
+![alt text](./images/top.png)
 
 <p align="center">
-	<a href="https://github.com/nguyenary"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
-	<a href="https://www.linkedin.com/in/nguyenary"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
-	<a href="https://www.facebook.com/nguyenary"><img alt="facebook" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/facebook-new.png"/></a>
-	<a href="https://twitter.com/nguyen_ary"><img alt="twitter" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/twitter.png"/></a>
-</p>
-
-<a href="https://www.linkedin.com/in/nguyenary/">
-  <svg aria-hidden="true" class="global-nav__logo" xmlns="http://www.w3.org/2000/svg" width="34" height="34" data-supported-dps="34x34" focusable="false">
-        <g transform="scale(.7083)" fill="none" fill-rule="evenodd">
-          <rect class="bug-text-color" fill="transparent" x="1" y="1" width="46" height="46" rx="4"></rect>
-          <path d="M0 4.01A4.01 4.01 0 014.01 0h39.98A4.01 4.01 0 0148 4.01v39.98A4.01 4.01 0 0143.99 48H4.01A4.01 4.01 0 010 43.99V4.01zM19 18.3h6.5v3.266C26.437 19.688 28.838 18 32.445 18 39.359 18 41 21.738 41 28.597V41.3h-7V30.159c0-3.906-.937-6.109-3.32-6.109-3.305 0-4.68 2.375-4.68 6.109V41.3h-7v-23zM7 41h7V18H7v23zm8-30.5a4.5 4.5 0 11-9 0 4.5 4.5 0 019 0z" class="background" fill="currentColor"></path>
-        </g>
-      </svg>
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nguyenary&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nguyenary&layout=compact&langs_count=8&theme=radical"/>
 </a>
+</p>
 
-<br />
-
-I'm a passionate self-taught web developer from Hanoi 💻
-
-- 🎫 I am self-learning new knowledge and technology
-- 🔗 My linkedin [here](https://www.linkedin.com/in/nguyenary/)
-- 💬 Ask me about anything [here](https://github.com/nguyenary/nguyenary/issues)
-
-<br />
+![divider](./images/divider.gif)
 
 <p align="center">
-  <a href="https://github.com/nguyenary/nguyenary">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenary&layout=compact&theme=dracula" />
-  </a>
-  <br>
-  <br>
+  <i>Let's connect and chat! Open to anything under the sun.</i>
+
+  <p align="center">
+    	<code><a href="https://www.facebook.com/nguyenary/"><img width="30px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-facebook-256.png" title="Facebook"/></a></code>
+	<code><a href="https://www.linkedin.com/in/nguyenary"><img width="30px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-128.png" title="Linkedin"/></a></code>
+	<code><a href="https://twitter.com/nguyen_ary"><img width="30px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-256.png" title="Twitter"/></a></code>
+	<code><a href="mailto:nguyenary14@gmail.com"><img width="30px" src="https://cdn2.iconfinder.com/data/icons/social-media-2304/64/06-gmail-256.png" title="Gmail"/></a></code>
+  </p>
+
+  <p align="center">
+      <img align="center" src="https://page-views.glitch.me/badge?page_id=nguyenary">
+  </p>
 </p>
-<p align="center">
-  <a href="https://github.com/nguyenary/nguyenary">
-    <img width="47%" src="https://github-readme-stats.vercel.app/api?username=nguyenary&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="nguyenary's github" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/nguyenary/nguyenary">
-    <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=nguyenary&count_private=true&theme=radical" />
-  </a>
-</p>
+
+![alt text](./images/bottom.svg)
