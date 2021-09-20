@@ -13,7 +13,7 @@
 
 <br><br>
 
-<img align="right" width=250px height=250px alt="side_sticker" src="./images/profile_dev.svg" />
+<img align="right" width=200px height=200px alt="side_sticker" src="./images/profile_dev.svg" />
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About Me***
 
@@ -22,8 +22,9 @@
 * 📫 Ask me anything you want [**here**](https://github.com/nguyenary/nguyenary/issues), If I were alive, I would reply within seconds 😉
 * 😄 Fun fact: I am always trying to learn new things. After I sleep, I will forget everything
 
-<p style="clear: both;" align="center">
-  <br><br>
+<br><br>
+  
+<p align="center">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nguyenary&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nguyenary&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/>
 </p>
