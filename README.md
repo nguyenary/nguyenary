@@ -32,22 +32,26 @@
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![NPM](https://img.shields.io/badge/-NPM-05122A?style=flat&logo=npm)&nbsp;
-![Yarn](https://img.shields.io/badge/-Yarn-05122A?style=flat&logo=yarn)&nbsp;\
-![jQuery](https://img.shields.io/badge/-jQuery-05122A?style=flat&logo=jquery)&nbsp;
+![Yarn](https://img.shields.io/badge/-Yarn-05122A?style=flat&logo=yarn)&nbsp;
+![jQuery](https://img.shields.io/badge/-jQuery-05122A?style=flat&logo=jquery)&nbsp;\
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat&logo=tailwindcss)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;\
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![GitLab](https://img.shields.io/badge/-GitLab-05122A?style=flat&logo=gitlab)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
 ![PhpStorm](https://img.shields.io/badge/-PhpStorm-05122A?style=flat&logo=phpstorm)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![GitKraken](https://img.shields.io/badge/-GitKraken-05122A?style=flat&logo=gitkraken&logoColor=007ACC)&nbsp;
-![Insomnia](https://img.shields.io/badge/-Insomnia-05122A?style=flat&logo=insomnia)&nbsp;\
+![Insomnia](https://img.shields.io/badge/-Insomnia-05122A?style=flat&logo=insomnia)&nbsp;
 ![XAMPP](https://img.shields.io/badge/-XAMPP-05122A?style=flat&logo=xampp)&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;\
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
+![Google Keep](https://img.shields.io/badge/-Google%20Keep-05122A?style=flat&logo=googlekeep)&nbsp;
+![Microsoft OneNote](https://img.shields.io/badge/-Microsoft%20OneNote-05122A?style=flat&logo=microsoftonenote)&nbsp;
 ![Telegram](https://img.shields.io/badge/-Telegram-05122A?style=flat&logo=telegram)&nbsp;
+![Skype](https://img.shields.io/badge/-Skype-05122A?style=flat&logo=skype)&nbsp;
 
 <br>
 
