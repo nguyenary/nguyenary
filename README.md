@@ -11,7 +11,7 @@
   <img src="./images/dog_2.gif" width="50" /> <b><i align="center">Thought : "Life is full of choices…choose wisely!”</i></b> <img src="./images/dog_1.gif" width="50" />
 </p>
 
-<br><br>
+<br>
 
 <img align="right" width=200px height=200px alt="side_sticker" src="./images/profile_dev.svg" />
 
