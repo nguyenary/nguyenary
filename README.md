@@ -1,6 +1,6 @@
 ![alt text](./images/header.svg)
 
-<h3 align="center">Full-Stack Web Developer</h3>
+<h3 align="center">Web Developer</h3>
 
 <p align="center">
   <em>
