@@ -4,8 +4,8 @@
 
 <p align="center">
   <em>
-    I am a self-taught <b>programmer</b>. Has a great fondness for <b>code</b> <img src="./images/Developer.gif" width="30px">
-    <br>enjoys learning <b>new technologies</b> <img src="./images/Designer.gif" width="36px"> and discovering the <b>essence of problems.</b>
+    I am a self-taught <b>programmer</b>. Has a great fondness for <b>code</b> <img src="./images/Developer.gif" width="30px" height="30px">
+    <br>enjoys learning <b>new technologies</b> <img src="./images/Designer.gif" width="36px" height="36px"> and discovering the <b>essence of problems.</b>
   </em> 
   <br>
   <img src="./images/dog_2.gif" width="50" /> <b><i align="center">Thought : "Life is full of choices…choose wisely!”</i></b> <img src="./images/dog_1.gif" width="50" />
@@ -15,7 +15,7 @@
 
 <img align="right" width=200px height=200px alt="side_sticker" src="./images/profile_dev.svg" />
 
-### <img src="./images/stats.gif" width="30px"> ***About Me***
+### <img src="./images/stats.gif" width="30px" height="30px"> ***About Me***
 
 * 🌱 I'm learning ***Javascript*** and ***ReactJS*** 😍
 * 🏆 I usually work with ***PHP language***
