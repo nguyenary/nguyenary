@@ -1,10 +1,10 @@
 ![alt text](./images/header.svg)
 
-<h3 align="center">Web Developer</h3>
+<h3 align="center">Software Engineer</h3>
 
 <p align="center">
   <em>
-    I am a self-taught <b>programmer</b>. Has a great fondness for <b>code</b> <img src="./images/Developer.gif" width="30px" height="30px">
+    I am a self-taught <b>Software Engineer</b>. Has a great fondness for <b>code</b> <img src="./images/Developer.gif" width="30px" height="30px">
     <br>enjoys learning <b>new technologies</b> <img src="./images/Designer.gif" width="36px" height="36px"> and discovering the <b>essence of problems.</b>
   </em> 
   <br>
