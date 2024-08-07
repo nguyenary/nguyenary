@@ -69,7 +69,7 @@
 <details>
   <summary>⚡ Recent GitHub Activity</summary>
   <br>
-   <img alt="nguyenary github activity graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=nguyenary&theme=github-compact" />
+   <img alt="nguyenary github activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=nguyenary&bg_color=120c27&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true" />
   <br/>
 </details>
 
